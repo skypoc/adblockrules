@@ -12863,7 +12863,6 @@ m.dmzj.com##div.app_text
 ||apm3.music.163.com^
 ||android.bugly.qq.com^
 ||www.viidii.info/web/images/post.js
-||t66y.com^$replace=/r2aeadS//
 ||xuanlimin.top^
 ||yuqi7.top^
 ||11bz.in/js/zhanxian1.js
