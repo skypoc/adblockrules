@@ -2580,8 +2580,6 @@ szonline.net##.adsbygoogle,.layout_ad,[class^="ad_1000_"],[href="http://www.u-ad
 szyangxiao.net##.ads
 t347.com##.adsbygoogle
 t56.net##.gg_full,.textad,.ads_f,#leftDiv,a[href="http://magapp.t56.net/appdownload"],.t_table
-t66y.cc,t66y.com##DIV > A > IMG[src^="http://www.t66y.cc/img/"]:first-child,DIV.container > DIV > A[rel="nofollow"],blockquote img[onclick^="window.open('http://www.viidii.info/"],blockquote .f16
-t66y.com##.tips
 tadu.com##[href^="http://www.tadu.com/ad?"],.friend-close,div[id^="_"]
 tahua.net###portal_block_91
 taian.com##.ggtp
